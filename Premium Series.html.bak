@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title> Premium Series </title>
+	<meta charset="utf-8">
+  
+		<link rel="stylesheet" type="text/css" href="style.css">
+
+	</head>
+
+	<body> 
+     <div class="navbar">
+  <a href="index.html" class="child neoncolor">Thirtie Ann</a>
+    <div class="child neoncolor" style="float:right">
+  <a href="index.html" class="child neoncolor"> 	Home </a> &nbsp;
+  <div class="dropdown">
+    <a href="Products.html" class="child neoncolor"> See Products </a> &nbsp;
+	
+      <i class="fa fa-caret-down"></i>
+    
+    <div class="dropdown-content">
+      <a href="RegularMilktea.html">Regular Milktea</a>
+      <a href="Premium Series.html">Premium Series</a>
+      <a href="Overload Series.html">Overload Series</a>
+	  <a href="Trio Overload Series.html">Trio Overload Series</a>
+    
+    
+</div>
+</div>
+<a href="AboutUs.html" class="child neoncolor">	About Us </a> &nbsp;
+	<a href="ContactInfo.html" class="child neoncolor">	Contact Info </a>
+</div>
+    </div>
+<hr>
+<br>
+	<br>
+ <center> 
+<div class="title">Premium Milktea </div></center>
+
+
+<div class="rectangle">
+<img src="thirtea 8.png" height="102px"width="7%" style="float:left;"> 
+<div class="description" style="float: left; margin-right: 10px; margin-left:10px;"> Dark Choco
+<div class="desc"> Want to have an experience of bittersweet flavor? Try our Dark Choco Milktea with an irresistible taste, smooth and rich texture. Best with pearls!
+
+
+
+ </div> </div>
+ 
+<div class="description" style="float: right;margin-right: 10px; margin-left:10px;"> Tea Blossom
+<div class="desc"> Have a Japanese experience with our inspired drink from Sakura leaves that’ll give you a blossom of flavors.
+ </div> </div>
+ <img src="thirtea 9.png" height="102px"width="7%" style="float:right;">
+</div>
+
+<br>
+
+<div class="rectangle">
+<img src="thirtea 10.png" height="102px"width="7%" style="float:left;"> 
+<div class="description" style="float: left; margin-right: 10px; margin-left:10px;"> Premium Matcha
+<div class="desc"> Another drink that’ll give you a Japanese experience. Try this upgraded version of Matcha!
+ </div> </div>
+ 
+<div class="description" style="float: right;margin-right: 10px; margin-left:10px;"> Dark Velvet
+<div class="desc"> Another type of delicious Velvets but unlike other velvets, this time this’ll give you a shadowy-sweet taste.
+ </div> </div>
+ <img src="thirtea 11.jpg" height="102px"width="7%" style="float:right;">
+</div>
+<br>
+
+<div class="rectangle"> 
+<img src="thirtea 12.jpg" height="102px"width="7%" style="float:left;">
+<div class="description" style="float: left; margin-right: 10px; margin-left:10px;"> Double Cookies n’ Cream
+<div class="desc"> Unlike the traditional Cookies n’ Cream, this drink is rich in flavor, texture and sweetness. You don’t want to miss this out. Perfect for ice cream lovers!
+ </div> </div>
+ 
+<div class="description" style="float: right;margin-right: 10px; margin-left:10px;"> Matcha
+<div class="desc"> A Japanese flavor that is bright, slightly bitter taste but with notes of sweetness. 
+ </div> </div>
+ <img src="thirtea 10.png" height="102px"width="7%" style="float:right;">
+</div>
+<br>
+
+<div class="rectangle"> 
+<img src="thirtea 20.png" height="102px"width="7%" style="float:left;">
+<div class="description" style="float: left; margin-right: 10px; margin-left:10px;"> Meiji Apollo
+<div class="desc">  A chocolate becomes a milktea! Try our one of the Japanese inspired flavors. A chocolate-y vibe yet refreshing taste!
+ </div> </div>
+ 
+<div class="description" style="float: right;margin-right: 10px; margin-left:10px;"> Premium Velvet
+<div class="desc"> One of the best velvets, a cocoa-beet flavor that’ll suit your taste in velvets.
+ </div> </div>
+ <img src="thirtea 21.png" height="102px"width="7%" style="float:right;">
+</div>
+<br>
+
+
+<br><br><center>
+
+
+
+<a href="Premium Series.html" class="page">	
+		1
+ </a>
+
+<a href="PremiumPage2.html" class="page">	
+		2
+ </a>
+
+
+<br>
+</center>
+</body>
+</html>
+
+
+

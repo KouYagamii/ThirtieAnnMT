@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Trio Overload Series </title>
+	<meta charset="utf-8">
+  
+		<link rel="stylesheet" type="text/css" href="style.css">
+
+	</head>
+
+	<body> 
+     <div class="navbar">
+  <a href="index.html" class="child neoncolor">Thirtie Ann</a>
+    <div class="child neoncolor" style="float:right">
+  <a href="index.html" class="child neoncolor"> 	Home </a> &nbsp;
+  <div class="dropdown">
+    <a href="Products.html" class="child neoncolor"> See Products </a> &nbsp;
+	
+      <i class="fa fa-caret-down"></i>
+    
+    <div class="dropdown-content">
+      <a href="RegularMilktea.html">Regular Milktea</a>
+      <a href="Premium Series.html">Premium Series</a>
+      <a href="Overload Series.html">Overload Series</a>
+	  <a href="Trio Overload Series.html">Trio Overload Series</a>
+    
+    
+</div>
+</div>
+<a href="AboutUs.html" class="child neoncolor">	About Us </a> &nbsp;
+	<a href="ContactInfo.html" class="child neoncolor">	Contact Info </a>
+</div>
+    </div>
+<hr>
+<br>
+	<br>
+ <center> 
+<div class="title">Trio Overload Milktea </div></center>
+
+
+<div class="rectangle"> 
+<img src="thirtea 1.png" height="102px"width="7%" style="float:left;">
+<div class="description" style="float: left; margin-right: 10px; margin-left:10px;"> Classic Trio Overload
+<div class="desc"> Your standard milk tea, but with oreo, creamcheese, and nata added!
+
+
+
+ </div> </div>
+<div class="description" style="float: right;margin-right: 10px; margin-left:10px;"> Okinawa Trio Overload
+<div class="desc"> The balanced sweetness of Okinawa makes you feel overpowered as well!
+
+ </div> </div>
+ <img src="thirtea 3.png" height="102px"width="7%" style="float:right;">
+</div>
+<br>
+
+<div class="rectangle"> 
+<img src="thirtea 5.png" height="102px"width="7%" style="float:left;">
+<div class="description" style="float: left; margin-right: 10px; margin-left:10px;"> Red Velvet Trio Overload
+<div class="desc"> The taste of your favorite cake transformed into a drink with a twist of flavor in each sip!
+ </div> </div>
+<div class="description" style="float: right; margin-right: 10px; margin-left:10px;"> Cookies N' Cream Trio Overload
+<div class="desc"> The Cookies N' Cream, which is overflowing with oreo cookies, creamcheese, and nata, will keep you from getting bored
+ </div> </div>
+ <img src="thirtea 7.png" height="102px"width="7%" style="float:right;">
+</div>
+<br>
+
+<div class="rectangle"> 
+<img src="thirtea 8.png" height="102px"width="7%" style="float:left;">
+<div class="description" style="float: left; margin-right: 10px; margin-left:10px;"> Dark Choco Trio Overload
+<div class="desc"> Not enough Dark Chocolate for you? We got it covered! This one is TRIPLE the amount added with the overload mixture!
+ </div> </div>
+<div class="description" style="float: right; margin-right: 10px; margin-left:10px;"> Matcha Trio Overload
+<div class="desc"> Sweet Matcha milk tea that's ideal for sipping while listening to music
+ </div> </div>
+ <img src="thirtea 10.png" height="102px"width="7%" style="float:right;">
+</div>
+<br>
+
+<div class="rectangle"> 
+<img src="thirtea 20.png" height="102px"width="7%" style="float:left;">
+<div class="description" style="float: left; margin-right: 10px; margin-left:10px;"> Meiji Apollo Trio Overload
+<div class="desc">The Japanese strawberry chocolate milk tea variant will make you fall in love !
+
+
+
+ </div> </div>
+<div class="description" style="float: right; margin-right: 10px; margin-left:10px;"> Premium Matcha Trio Overload
+<div class="desc"> Matcha flavor but even more flavors! We added some new ingredients into the mix for your taste buds to enjoy
+ </div> </div>
+ <img src="thirtea 10.png" height="102px"width="7%" style="float:right;">
+</div><br><br><center>
+<a href="Trio Overload Series.html" class="page">	
+		1
+ </a>
+
+<a href="TrioOverloadPage2.html" class="page">	
+		2
+ </a>
+
+<a href="TrioOverloadPage3.html" class="page">	
+		3
+ </a>
+<br>
+</center>
+</body>
+</html>
+
+
+
